@@ -2,7 +2,7 @@
 #include <vector>
 
 /** @file main.cpp
- * @brief Main program for test
+ * @brief Main program for test try number 2
 */
 
 
