@@ -10,7 +10,7 @@ fi
 
 # If there are no changes, checkout the specified branch
 git checkout gh-pages
-git merge main
+git merge main -m merge-files-from-main
 # Check if there were any merge conflicts
 if [ $? -ne 0 ]; then
   echo "***********************************************************************************"
