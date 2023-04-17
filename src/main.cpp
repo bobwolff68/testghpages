@@ -2,12 +2,12 @@
 #include <vector>
 
 /** @file main.cpp
- * @brief Main program for test file 5
+ * @brief Main program for test file 6
 */
 
 
 /**
- * \mainpage Test of the main page. try 5 from main
+ * \mainpage Test of the main page. try 6 from main
  * 
  * Here we are hoping gh-pages works.
  * 
